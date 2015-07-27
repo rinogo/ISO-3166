@@ -4036,7 +4036,6 @@ Spain;ES;ESP;212;Zamora;Zamora;province;ZA;18114
 Spain;ES;ESP;212;Zaragoza;Zaragoza;province;Z;18110
 Spain;ES;ESP;212;Álava;Alava;province;VI;18121
 Spain;ES;ESP;212;Ávila;Avila;province;AV;18139
-Spain;ES;ESP;212;;;;19573
 Spain;ES;ESP;212;;"autonomous community";"autonomous community";42629
 "Sri Lanka";LK;LKA;213;Ampāra;Ampara;district;52;18178
 "Sri Lanka";LK;LKA;213;Anurādhapura;Anuradhapura;district;71;18175
@@ -4216,7 +4215,6 @@ Switzerland;CH;CHE;219;"Zürich (de)";"Zurich (de)";canton;ZH;18256
 Tajikistan;TJ;TJK;222;Gorno-Badakhshan;Gorno-Badakhshan;"autonomous region";GB;18331
 Tajikistan;TJ;TJK;222;Khatlon;Khatlon;region;KT;18327
 Tajikistan;TJ;TJK;222;Sughd;Sughd;region;SU;18330
-Tajikistan;TJ;TJK;222;;city;city;18329
 "United Republic of Tanzania";TZ;TZA;223;Arusha;Arusha;region;01;18349
 "United Republic of Tanzania";TZ;TZA;223;"Dar es Salaam";"Dar es Salaam";region;02;18350
 "United Republic of Tanzania";TZ;TZA;223;Dodoma;Dodoma;region;03;18351
@@ -4469,8 +4467,6 @@ Turkmenistan;TM;TKM;233;Balkan;Balkan;region;B;18568
 Turkmenistan;TM;TKM;233;Dasoguz;Dasoguz;region;D;18571
 Turkmenistan;TM;TKM;233;Lebap;Lebap;region;L;18572
 Turkmenistan;TM;TKM;233;Mary;Mary;region;M;18566
-Turkmenistan;TM;TKM;233;;City;city;18567
-Turkmenistan;TM;TKM;233;;City;city;48134
 Tuvalu;TV;TUV;235;Funafuti;Funafuti;"island council";FUN;18586
 Tuvalu;TV;TUV;235;Nanumanga;Nanumanga;"island council";NMG;18580
 Tuvalu;TV;TUV;235;Nanumea;Nanumea;"island council";NMA;18581
@@ -4909,9 +4905,6 @@ Uruguay;UY;URY;242;"San José";"San Jose";department;SJ;18692
 Uruguay;UY;URY;242;Soriano;Soriano;department;SO;18706
 Uruguay;UY;URY;242;Tacuarembó;Tacuarembo;department;TA;18691
 Uruguay;UY;URY;242;"Treinta y Tres";"Treinta y Tres";department;TT;18707
-Uruguay;UY;URY;242;;Department;department;18697
-Uruguay;UY;URY;242;;Department;department;18708
-Uruguay;UY;URY;242;;Department;department;18698
 Uzbekistan;UZ;UZB;243;Andijon;Andijon;region;AN;18715
 Uzbekistan;UZ;UZB;243;Buxoro;Buxoro;region;BU;18717
 Uzbekistan;UZ;UZB;243;Farg‘ona;Farg'ona;region;FA;18714
