@@ -1841,7 +1841,6 @@ Ireland;IE;IRL;109;Cavan;Cavan;county;CN;14795
 Ireland;IE;IRL;109;Clare;Clare;county;CE;14799
 Ireland;IE;IRL;109;Connaught;Connaught;province;C;48469
 Ireland;IE;IRL;109;Cork;Cork;county;CO;48897
-Ireland;IE;IRL;109;Cork;Cork;county;C;14800
 Ireland;IE;IRL;109;Donegal;Donegal;county;DL;14796
 Ireland;IE;IRL;109;Dublin;Dublin;county;D;14801
 Ireland;IE;IRL;109;Galway;Galway;county;G;14797
@@ -2947,7 +2946,6 @@ Morocco;MA;MAR;153;Skhirate-Témara;Skhirate-Temara;prefecture;SKH;48484
 Morocco;MA;MAR;153;Souss-Massa-Draa;Souss-Massa-Draa;region;13;15570
 Morocco;MA;MAR;153;Tadla-Azilal;Tadla-Azilal;region;12;15533
 Morocco;MA;MAR;153;Tan-Tan;Tan-Tan;province;TNT;15542
-Morocco;MA;MAR;153;Tanger;Tanger;;TNG;15584
 Morocco;MA;MAR;153;Tanger-Assilah;Tanger-Assilah;prefecture;TNG;48485
 Morocco;MA;MAR;153;Tanger-Tetouan;Tanger-Tetouan;region;01;15571
 Morocco;MA;MAR;153;Taounate;Taounate;province;TAO;15562
@@ -3382,7 +3380,6 @@ Philippines;PH;PHL;180;"Zamboanga del Norte";"Zamboanga del Norte";province;ZAN;
 Philippines;PH;PHL;180;"Zamboanga del Sur";"Zamboanga del Sur";province;ZAS;17238
 Philippines;PH;PHL;180;"Zamboanga Peninsula (Region IX)";"Zamboanga Peninsula (Region IX)";region;09;48243
 Philippines;PH;PHL;180;"Zamboanga Sibuguey (Zamboanga Sibugay)";"Zamboanga Sibuguey (Zamboanga Sibugay)";province;ZSI;17672
-Philippines;PH;PHL;180;;;;48079
 Poland;PL;POL;183;Dolnoslaskie;Dolnoslaskie;voivodeship;DS;17731
 Poland;PL;POL;183;Kujawsko-pomorskie;Kujawsko-pomorskie;voivodeship;KP;17732
 Poland;PL;POL;183;Lubelskie;Lubelskie;voivodeship;LU;17733
@@ -3568,10 +3565,8 @@ Rwanda;RW;RWA;191;Ouest;Ouest;province;04;19065
 Rwanda;RW;RWA;191;Sud;Sud;province;05;17912
 Rwanda;RW;RWA;191;"Ville de Kigali";"Ville de Kigali";province;01;17923
 "Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;Ascension;Ascension;dependency;AC;17926
-"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;Ascension;Ascension;"geographical entity";AC;48879
 "Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Saint Helena";"Saint Helena";"geographical entity";HL;48880
 "Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Saint Helena";"Saint Helena";"administrative area";SH;17930
-"Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Tristan da Cunha";"Tristan da Cunha";"geographical entity";TA;48881
 "Ascension and Tristan Da Cunha Saint Helena";SH;SHN;192;"Tristan da Cunha";"Tristan da Cunha";dependency;TA;17925
 "Saint Kitts And Nevis";KN;KNA;193;"Christ Church Nichola Town";"Christ Church Nichola Town";parish;01;17933
 "Saint Kitts And Nevis";KN;KNA;193;Nevis;Nevis;state;N;48461
