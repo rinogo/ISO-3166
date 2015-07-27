@@ -28,6 +28,7 @@ CREATE TABLE `iso_3166_2` (
 SQL;
 
 $types = array();
+$codes = array();
 if(($in = fopen($in_filename, "r")) !== false) {
 
 	for($line = 0; ($d = fgetcsv($in, 0, ";")) !== false; $line++) {
@@ -35,10 +36,16 @@ if(($in = fopen($in_filename, "r")) !== false) {
 			continue;
 		}
 
-		//
+		$code = "{$d[1]}-{$d[7]}";
+		if(isset($codes[$code])) {
+			echo "//DUPLICATE FOUND - $code\n";
+		}
+		$codes[$code] = true;
+		
+		echo "echo \"$code\\n\";\n";
 		echo <<<SQL
 \$database->exec("INSERT INTO iso_3166_2 (`code`, `country_name`, `country_short_code`, `country_long_code`, `country_number_code`, `region_name`, `region_name_ascii`, `region_type`, `regional_code`, `regional_number_code`) VALUES (
-\"{$d[1]}-{$d[7]}\",
+\"{$code}\",
 \"{$d[0]}\",
 \"{$d[1]}\",
 \"{$d[2]}\",
